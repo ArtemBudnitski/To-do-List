@@ -1,4 +1,4 @@
-# To-do_List_Kotlin
+# To-do List 
 
 Aplikacja To-Do List to prosta aplikacja mobilna napisana w języku Kotlin, która umożliwia użytkownikowi tworzenie listy zadań do wykonania.
 
