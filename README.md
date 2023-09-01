@@ -24,6 +24,12 @@ Aplikacja została napisana w języku Kotlin, wykorzystując Android Studio do t
 - `ArrayAdapter`: Wykorzystany do zarządzania listą zadań i dostosowywania jej do `ListView`.
 - `Toast`: Wykorzystany do wyświetlania krótkich komunikatów.
 
+  ##Screenshots:
+![Screenshot_20230901_144941](https://github.com/ArtemBudnitski/To-do_List_Kotlin/assets/126951785/cc08ba5f-031e-4ef2-bb07-8577687aa245)
+![Screenshot_20230901_145032](https://github.com/ArtemBudnitski/To-do_List_Kotlin/assets/126951785/19eb7216-93d7-44fb-9170-94ee79215191)
+![Screenshot_20230901_145103](https://github.com/ArtemBudnitski/To-do_List_Kotlin/assets/126951785/c8c9f9c1-8073-489d-8e53-cd2517a94620)
+
+
 
 ## Autor
 
