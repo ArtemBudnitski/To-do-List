@@ -33,7 +33,7 @@ Aplikacja została napisana w języku Kotlin, wykorzystując Android Studio do t
 
 ## Autor
 
-Autor: Artem budnitski
+Autor: Artem Budnitski
 
 
 
